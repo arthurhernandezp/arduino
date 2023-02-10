@@ -1,3 +1,20 @@
+/* DIAGRAMA PROJETO FINAL CURSO ARDUINO
+ * DISPLAY 4-DIGIT        ARDUINO
+ *          GND ----------> GND
+ *          VCC ----------> 5V
+ *          DIO ----------> PIN 2
+ *          CLK ----------> PIN 3~
+ *          
+ *SENSOR MLX90614
+ *          VIN ----------> 5V
+ *          GND ----------> GND
+ *          SCL ----------> PIN A5
+ *          SDA ----------> PIN A4
+ *          
+ * BUTTON  (  GND & PIN 7  )
+ * 
+ * LED     (  GND & PIN 10 )
+ */
 #include <Wire.h>
 #include <Adafruit_MLX90614.h>
 #include <Arduino.h>
