@@ -51,7 +51,7 @@ void loop()
   estadoCorrente = debounce(estadoAnterior);
   if (estadoAnterior==LOW && estadoCorrente==HIGH){
     //Leitura da temperatura ambiente e do objeto
-    temp_amb = mlx.readAmbientTempC();
+    //temp_amb = mlx.readAmbientTempC();
     temp_obj = mlx.readObjectTempC();
     int whole = (int)temp_obj;
     int decimal = (temp_obj - whole) * 10;
