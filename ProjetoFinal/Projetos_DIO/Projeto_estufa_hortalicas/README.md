@@ -9,5 +9,5 @@ Neste projeto, simulando uma estufa de hortaliças, pode ser executado no simula
 Todo o processo descrito deve ser programado em linguagem C na placa de projetos Arduino
 
 <div align="center">
-<img src="[https://user-images.githubusercontent.com/57412723/244523004-b5bc33c5-6d7f-47f3-a0d8-d071e5ec7dcd.png]"width="0px" />
+  <img src="https://user-images.githubusercontent.com/57412723/244523004-b5bc33c5-6d7f-47f3-a0d8-d071e5ec7dcd.png" width="0px" />
 </div>
