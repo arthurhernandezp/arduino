@@ -8,4 +8,4 @@ Neste projeto, simulando uma estufa de hortaliças, pode ser executado no simula
 
 Todo o processo descrito deve ser programado em linguagem C na placa de projetos Arduino
 
-  <img src="Brave Snaget-Habbi.png" width="0px" />
+  <img src="Brave Snaget-Habbi.png" />
